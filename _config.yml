@@ -1,11 +1,3 @@
 theme: jekyll-theme-architect
 title: Momo's blog
 layout: page
-posts:
-  reussir-entretien:
-    permalink: /reussir-entretien
-    description: réussir son entretien d'embauche sans stress
-  dire-non:
-    permalink: /dire-non
-    title: Dire non en paix
-    description: Savoir dire non sans en souffrir
