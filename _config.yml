@@ -1,3 +1,7 @@
 theme: jekyll-theme-architect
+layout: pages
 title: Momo's blog
 description: Welcome
+collections:
+  dire-non:
+  reussir-entretien:
