@@ -1,2 +1,2 @@
-[Reussir son entretien](#reussir-entretien)
-[Dire non](#dire-non)
+[Reussir son entretien](/reussir-entretien)
+[Dire non](/dire-non)
