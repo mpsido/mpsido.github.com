@@ -1,12 +1,12 @@
-## Dire non en paix
+# Dire non en paix
 
 Si tu fais partie de ces gens pour qui dire non est difficile cet article est pour toi.
 
-### Pourquoi c'est difficile de dire non
+## Pourquoi c'est difficile de dire non
 
 Tout d'abord commençons par parler des raisons pour lesquelles tu trouves ça difficile:
 
-#### Vision idéalisée du monde
+### Vision idéalisée du monde
 
 Le monde serait tellement meilleur si chacun faisait de son mieux tout le temps et en toutes circonstances.
 
@@ -34,7 +34,7 @@ Il ne s'agit pas d'accuser les autres d'être malhonnêtes: **souvent ils ne le 
 
 Pourtant tu dois apprendre à te protéger.
 
-#### Je ne veux pas devenir une personne pointilleuse
+### Je ne veux pas devenir une personne pointilleuse
 
 Je sais ce que tu penses. Tu ne veux pas devenir une personne qui refuse tout.
 
@@ -42,7 +42,7 @@ Quelqu'un qui n'aide pas les autres. Quelqu'un sur qui on ne peut pas compte. **
 
 Je te comprends et moi non plus je ne souhaites pas faire de toi une personne méchante.
 
-#### Sens du devoir
+### Sens du devoir
 
 Je sais que tu as un très grand sens des responsabilités. Il est **hors de question** que tu laisses tomber les gens qui ont besoin de toi.
 
@@ -50,7 +50,7 @@ Il est hors de question que tu deveniennes une des personnes qui laissent toujou
 
 Tu veux donner le meilleur de toi même: tu veux aider, tu veux et tu aimes que l'on compte sur toi.
 
-#### Peur du conflit
+### Peur du conflit
 
 De plus "dire non" c'est forcément s'opposer à des résistances. 
 
@@ -70,13 +70,13 @@ En fait c'est pas très difficile de te le faire regretter quand tu refuses un j
 
 Dans le pire des cas: tu peux même faire face à des personnes qui te menacent de conséquences si tu ne fais pas ce qu'elles te demandent.
 
-#### Pas envie d'être méchante
+### Pas envie d'être méchante
 
 Et quand ce n'est pas un problème de résistances tu n'as juste pas envie **laisser tomber les autres**.
 
 Tu aimes amener du positif dans ton environement: tu penses que **ce n'est pas à toi de changer mais aux autres de ne pas abuser de ta gentillesse**
 
-#### Tu attends: ils vont finir par comprendre
+### Tu attends: ils vont finir par comprendre
 
 Quand quelqu'un d'autre souffre à côté de toi: tu essaies toujours d'améliorer les choses.
 
@@ -84,9 +84,9 @@ Et quand toi tu souffres: **tu penses que les autres le voient** et que ils **vo
 
 J'ai une mauvaise nouvelle pour toi: **souvent tu souffres et les autres ne le remarquent même pas**.
 
-### Les raisons pour lesquelles il faut savoir dire non
+## Les raisons pour lesquelles il faut savoir dire non
 
-#### Reste toi même et reprends le contrôle
+### Reste toi même et reprends le contrôle
 
 La plupart du temps tu ne cherches même pas à changer: tu es patiente et tu te dis toujours que **tout ça finira bien par passer**.
 
@@ -106,7 +106,7 @@ Ce que je te propose c'est de **reprendre plus de contrôle** sur la décision d
 
 Tu pourras toujours décider d'aider n'importe qui dans le besoin.
 
-#### Sois juste et ne crains rien
+### Sois juste et ne crains rien
 
 Je ne vais **jamais te proposer de devenir injuste envers les autres**.
 
@@ -124,7 +124,7 @@ Pourtant en même temps je te recommande de **garder la mémoire de tes bonnes a
 
 Cet **mémoire** te fera te sentir bien et te donnera des choses à répondre si jamais dans le futur on te reproche des choses injustes.
 
-#### Mets les prolèmes dans la tête plutôt que dans le coeur
+### Mets les prolèmes dans la tête plutôt que dans le coeur
 
 **Au fond de toi tu le sais quand l'autre personne abuse**. 
 
@@ -154,7 +154,7 @@ En général tu es intuitive et tu réagis uniquement lorsque tes émotions te l
 
 Sauf que les émotions comme ça ne sont pas des bons guides. Ce travail de mémorisation permet de gérer ce stress avec ta tête plutôt que de le laisser s'accumuler dans ton coeur.
 
-#### Aide les autres à connaitre les limites
+### Aide les autres à connaitre les limites
 
 Comme tu es sensible aux difficultés des autres tu peux penser intuitivement que les autres ressentent ta souffrance.
 
@@ -174,7 +174,7 @@ Je te comprends, mais on ne parle pas de la même chose: **je te parle d'une sit
 
 Je sais que ce n'est jamais agréable de dire stop aux autres. Mais crois moi ils ont besoin de l'entendre.
 
-#### Sois prête à écouter des protestations
+### Sois prête à écouter des protestations
 
 Quand tu communiques avec quelqu'un d'autre **sa première intuition va être de répondre**.
 
@@ -182,7 +182,7 @@ Quand tu communiques avec quelqu'un d'autre **sa première intuition va être de
 
 C'est pas forcément le plus agréable des dialogues, mais changer une situation établie ne se fera jamais sans en passer par là.
 
-#### La malveillance ça existe
+### La malveillance ça existe
 
 Je parle de ça en dernier car comme toi je ne veux pas penser que les gens ont des mauvaises intentions.
 
@@ -198,9 +198,9 @@ Donne aux gens le **bénéfice du doute** et **ne commence jamais à penser que 
 
 Mais quand tu as des raisons indiscutables de penser qu'une personne n'a aucune considération pour ta souffrance: ne lui donne aucune considération non plus car il ne changera jamais.
 
-### Se préparer
+## Se préparer
 
-#### Détecte tes propres résistances
+### Détecte tes propres résistances
 
 Dans le chapitre précédent j'ai essaie de comprendre toutes les raisons qui font que c'est difficile pour toi de refuser des services aux autres.
 
@@ -214,7 +214,7 @@ Répète toi tous les jours ces raisons pour qu'elles soient dans ta conscience 
 
 Tu dois te comprendre. Tu ne pourras jamais changer un comportement si tu ne comprends pas d'abord le principe qui en est la source.
 
-#### La mémoire: 
+### La mémoire: 
 
 J'ai déjà parlé de la mémorisation. Mais je souhaite souligner encore une fois ce dont je parle.
 
@@ -234,7 +234,7 @@ Ne dis jamais à l'autre **pourquoi il a fait quelque chose** dis lui **ce qu'il
 
 C'est la phrase magique de résolution de tous les conflits, mais tu as besoin de ta mémoire pour savoir quoi dire à la place de XXX et YYY.
 
-#### Il ne s'agit pas de dire non à tout
+### Il ne s'agit pas de dire non à tout
 
 Ne glisse pas dans l'extrème et dans le conflit inutilement.
 
@@ -254,13 +254,13 @@ Tu dois être certaine que rien dans tes demandes ne puisse être jugé comme d�
 
 *Si tu as une liste de 10 demandes et que **seulement l'une d'entre elles n'est pas légitime** l'autre personne se jettera dessus et s'en servira pour **rejeter toutes tes demandes** en bloc.*
 
-### Prépare toi à comment ils vont réagir
+## Prépare toi à comment ils vont réagir
 
 La discussion va se passer et plus tu sauras à l'avance ce qui va se dire plus tu te sentiras forte.
 
-#### Phase 1: la résistance
+### Phase 1: la résistance
 
-##### Ils vont faire semblant de ne pas savoir
+#### Ils vont faire semblant de ne pas savoir
 
 Lorsque tu parleras de ton problème au tout début: la personne va **faire plus ou moins semblant de ne pas savoir**.
 
@@ -268,7 +268,7 @@ C'est pas toujours faux. Les autres ne peuvent pas toujours tout savoir. Mais fe
 
 N'accuse pas: reste calme. Si il ne sait pas explique même si tu sais qu'il fait semblant.
 
-##### Ils aurant des bonnes excuses
+#### Ils aurant des bonnes excuses
 
 Il y a plusieurs catégories d'excuses.
 
@@ -314,7 +314,7 @@ Encore une fois la clef est la **mémoire**: rappelle toi te toutes les fois où
 
 Le but n'est pas d'accuser mais d'avoir quelque chose à répondre quand on va t'accuser de petites choses.
 
-#### Phase 2: le changement d'attitude qui vient après
+### Phase 2: le changement d'attitude qui vient après
 
 **La période de mise en place des nouvelles habitudes**:
 
@@ -338,7 +338,7 @@ Si tu as changé: on va te le faire remarquer. On va te faire des petites blague
 
 Rigole avec eux. Ne remets pas en question tous tes efforts pour si peu: tu ne veux pas revenir à comme avant.
 
-#### Conclusion: redéfinir les conditions de la paix
+### Conclusion: redéfinir les conditions de la paix
 
 Changer une situation qui a duré pendant longtemps ne va pas se faire du jour au lendemain.
 
