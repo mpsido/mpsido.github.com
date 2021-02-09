@@ -80,7 +80,7 @@ Tu aimes amener du positif dans ton environement: tu penses que **ce n'est pas �
 
 Quand quelqu'un d'autre souffre à côté de toi: tu essaies toujours d'améliorer les choses.
 
-Et quand toi tu souffres: **tu penses que les autres le voient** et que ils **vont faire ce qu'ils peuvent pour te soulagers**.
+Et quand toi tu souffres: **tu penses que les autres le voient** et que ils **vont faire ce qu'ils peuvent pour te soulager**.
 
 J'ai une mauvaise nouvelle pour toi: **souvent tu souffres et les autres ne le remarquent même pas**.
 
