@@ -1,4 +1,4 @@
-# Choisir un homme convenabe
+# Choisir un homme convenable
 
 ## Qu'est ce qu'un homme convenable
 

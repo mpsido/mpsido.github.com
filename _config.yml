@@ -1,4 +1,4 @@
-theme: jekyll-theme-architect
+remote_theme: pages-themes/merlot
 layout: pages
 title: Momo's blog
 description: Welcome
