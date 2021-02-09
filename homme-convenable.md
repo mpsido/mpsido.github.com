@@ -174,8 +174,8 @@ Tu as probablement déjà des méthodes à toi pour profiter de la vie et te pro
 
 Mais qu'est ce que tu veux vraiment: profiter sans contraintes ou bien recevoir de la bienveillance ?
 
-Tu peux avoir les deux à condition de ne pas voir les hommes comme des resources consommables et substituales. 
+Tu peux avoir les deux à condition de ne pas voir les hommes comme des resources consommables et substituables. 
 
-Ils sont aussi comme toi: des être sensibles soit te veulent du bien soit te voient comme une jolie femme dont ils veulent profiter.
+Ils sont aussi comme toi: des être sensibles qui soit te veulent du bien soit te voient comme une jolie femme dont ils veulent profiter.
 
 Sois bien dans ta peau, et apprends à reconnaître et apprécier la bienveillance quand tu la vois. Tu en seras toujours heureuse.
