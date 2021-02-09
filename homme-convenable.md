@@ -124,11 +124,13 @@ Une part de toi a aussi peur que quand il commence à passer beaucoup de temps a
 
 Mais pose toi la question autrement: pourquoi serais-tu moins intéressante que d'autres.
 
-Si ça vie n'est pas intéressante avec toi, c'est probablement qu'elle ne l'est pas non plus quand il est tout seul.
+Si sa vie n'est pas intéressante avec toi, c'est probablement qu'elle ne l'est pas non plus quand il est tout seul.
 
 Ce n'est pas ton rôle de rendre sa vie intéressante tout comme ce n'est pas le sien de soudainement rendre ta vie extraordinaire.
 
-En relation la bienveillance suffit dans la plupart des cas: écoute ce dont tu as besoins et parle lui en avec sincérité si il est le bon pour toi: il t'écoutera et te fera te sentir bien avec toi même.
+Dans une relation la bienveillance suffit dans la plupart des cas. 
+
+Ecoute tes besoins et parle lui en avec sincérité si il est le bon pour toi: il t'écoutera et te fera te sentir bien avec toi même.
 
 Si en revanche tu caches des choses: c'est ton problème. Règle d'abord tes problèmes si tu veux être heureuse en relation.
 
