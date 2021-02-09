@@ -38,7 +38,7 @@ Remarque: si tu veux de la bienveillance, toi aussi soit bienveillante.
 
 ### Les hommes qui te pardonnent tout et n'importe quoi
 
-Un homme qui te laisse lui manquer de respect et est un homme qui ne se respecte pas suffisement.
+Un homme qui te laisse lui manquer de respect est un homme qui ne se respecte pas suffisement.
 
 Les personnes qui ne se respectent pas se montrent souvent très fourbes dans leur relations intimes.
 
@@ -66,13 +66,13 @@ Il a une opinion réfléchie sur les choses de la vie, ce n'est pas une girouett
 
 Plutôt que de chercher à te dire ce qui va te plaire: *il te dis ce qu'il ressens et se fiche de savoir si tu vas être d'accord avec lui*.
 
-### Les hommes qui sont maîtres d'eux même
+### Les hommes qui sont maîtres d'eux mêmes
 
 Si tu es jolie: un homme qui souhaite passer du temps avec toi va te désirer.
 
 Mais il va savoir contrôler son désir. Il ne va jamais te presser quand tu n'as pas envie.
 
-Les personnes saines d'esprit ne veulent pas ton intimité: ils veulent que ton affection.
+Les personnes saines d'esprit ne sont pas obscédés par ton intimité: ils veulent ton affection.
 
 Il n'ont aucune envie de forcer quelqu'un qui ne veut pas d'eux. Ce qu'ils veulent c'est que tu aies envie d'eux.
 
@@ -106,7 +106,7 @@ Et de toutes façons si tu te laisses facilement séduire par des mots gentils �
 
 ### Peut être qu'il y a des mauvaises surprises cachées
 
-Peut être, mais il y en a aussi peut être avec tout le monde.
+Peut être, mais peut être qu'il y en a aussi avec tout les autres.
 
 C'est la raison pour laquelle les garçons qui ont déjà une copine semblent meilleurs. Si elle reste avec lui ça veut probablement dire qu'il se comporte bien.
 
@@ -124,7 +124,7 @@ Une part de toi a aussi peur que quand il commence à passer beaucoup de temps a
 
 Mais pose toi la question autrement: pourquoi serais-tu moins intéressante que d'autres.
 
-Si sa vie n'est pas intéressante avec toi, c'est probablement qu'elle ne l'est pas non plus quand il est tout seul.
+Si il ne trouve pas sa vie intéressante avec toi, c'est probablement qu'elle ne l'est pas non plus quand il est tout seul.
 
 Ce n'est pas ton rôle de rendre sa vie intéressante tout comme ce n'est pas le sien de soudainement rendre ta vie extraordinaire.
 
@@ -146,7 +146,7 @@ Il ne s'agit pas de coûts mesurés en termes d'argent, mais de coûts mesurés 
 
 Fais attention à ceux qui te couvrent de cadeaux même chers. Pour certains hommes l'argent n'est pas grand chose. Ils peuvent en payer à d'autres femmes aussi.
 
-Les bonnes attentions ne sont pas forcéments des restaurants et des objets physiques.
+Les bonnes attentions ne sont pas forcéments des restaurants  des fleurs ou autres objets physiques.
 
 Se rappelle-t-il de ce que tu lui dis ? Est ce qu'il le prend en compte ?
 
@@ -167,3 +167,15 @@ Il y a plein d'hommes que ça ne dérange pas parce qu'ils ne veulent que du sex
 Mais si un homme convenable remarque que tu triches avec lui il te fuira comme la peste.
 
 Ces stratégies peuvent te faire profiter de la vie et rencontrer plein d'hommes attirants, mais les hommes convenables en préfèreront investir leur énergie sur d'autres femmes.
+
+## Conclusion
+
+Tu as probablement déjà des méthodes à toi pour profiter de la vie et te protéger des mauvaises surprises.
+
+Mais qu'est ce que tu veux vraiment: profiter sans contraintes ou bien recevoir de la bienveillance ?
+
+Tu peux avoir les deux à condition de ne pas voir les hommes comme des resources consommables et substituales. 
+
+Ils sont aussi comme toi: des être sensibles soit te veulent du bien soit te voient comme une jolie femme dont ils veulent profiter.
+
+Sois bien dans ta peau, et apprends à reconnaître et apprécier la bienveillance quand tu la vois. Tu en seras toujours heureuse.
